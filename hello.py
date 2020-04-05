@@ -6,5 +6,5 @@ def calculate_income_tax():
     """
     Function to return value 1
     """
-    return 2
+    return 1
     
